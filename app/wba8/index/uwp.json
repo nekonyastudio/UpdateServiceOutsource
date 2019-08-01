@@ -1,0 +1,23 @@
+{
+    "versions":[ 
+        
+        {  
+            "base_version":1, 
+            "upgrade_type":"max", 
+            "download_type":"webpage", 
+            "webpage_url":"https://yomunchan.moe", 
+            "packages":[    
+                
+            ]
+        },
+        {  
+            "base_version":0, 
+            "upgrade_type":"cease", 
+            "download_type":"webpage", 
+            "webpage_url":"http://www.yomunchan.moe", 
+            "packages":[    
+                
+            ]
+        }
+    ]
+}
