@@ -7,7 +7,12 @@
             "download_type":"webpage", 
             "webpage_url":"https://yomunchan.moe", 
             "packages":[    
-                
+                {
+                    "version":1, 
+                    "md5":"d62163857721ba6a93533c5a1eb4e9ae", 
+                    "url":"https://update.outsource.corala.space/app/wba8/pkg/osx/b1/1.xpk", 
+                    "size":17
+                }
             ]
         },
         {  
