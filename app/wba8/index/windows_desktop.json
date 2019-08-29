@@ -6,7 +6,12 @@
             "download_type":"webpage", 
             "webpage_url":"https://yomunchan.moe", 
             "packages":[    
-                
+                {
+                    "version":1, 
+                    "md5":"4100db2e6429a5c99661efc9fa81c8ec", 
+                    "url":"https://update.outsource.corala.space/app/wba8/pkg/windows/b2/1.xpk", 
+                    "size":10
+                }
             ]
         },
         {  
