@@ -1,12 +1,26 @@
 {
     "versions":[ 
         {  
-            "base_version":3, 
+            "base_version":4, 
             "upgrade_type":"max", 
             "download_type":"webpage", 
             "webpage_url":"https://yomunchan.moe", 
             "packages":[    
                 
+            ]
+        },
+        {  
+            "base_version":3, 
+            "upgrade_type":"max", 
+            "download_type":"webpage", 
+            "webpage_url":"https://developer.cloud.unity3d.com/share/share.html?shareId=-ys1xYE1MB", 
+            "packages":[    
+                {
+                    "version":1, 
+                    "md5":"694dca468b2c396f0710296d45b29cdb", 
+                    "url":"https://wba8-upgrade.oss-cn-shanghai.aliyuncs.com/windows_b3/1.xpk", 
+                    "size":10
+                }
             ]
         },
         {  
